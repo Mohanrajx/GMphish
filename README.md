@@ -59,7 +59,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Now go to cloned directory and run `GMphish.sh` -
   ```
   $ cd GMphish
-  $ unzip GM-Phish.zip
+  $ unzip GM-Phishh.zip
   $ cd GM-Phish
   $ bash GMphish.sh
   $ bash GMphish.sh
